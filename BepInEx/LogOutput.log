@@ -1,0 +1,1142 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (2024/7/26 23:18:39)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [FixPluginTypesSerialization 1.0.0.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 3 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Message:FixPluginTypesSerialization] Using the config cache
+[Info   :FixPluginTypesSerialization] Running under Unity v2022.3.9
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 74 plugins to load
+[Warning:   BepInEx] Skipping [LethalPosters 1.0.0] because a newer version exists (LethalPosters 1.0.0)
+[Warning:   BepInEx] Plugin [MoreMoneyStart 2.1.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [DiscountAlert 2.3.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [LetMeLookDown 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [Corporate Restructure 1.0.6] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [HDLethalCompany-Sligili 1.5.6] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [Custom Boombox Music 1.4.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [Health Station mod 1.0.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [Sell Bodies 1.9.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [MoreMoneyStart 2.1.0]
+[Info   :   BepInEx] Loading [LethalConfig 1.4.2]
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Step Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Bool Checkbox"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Enum Dropdown"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Text Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Multiline Text Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig.ConfigItems.GenericButtonConfigItem"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Text Input Dropdown"
+[Info   :ainavt.lc.lethalconfig] Finished loading assets.
+[Info   :ainavt.lc.lethalconfig] LethalConfig loaded!
+[Info   :   BepInEx] Loading [LC Sound Tool 1.5.1]
+[Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [Jester Free 2.0.0]
+[Info   :Jester Free] Starting Jester Free
+[Debug  :LCSoundTool] Loading AudioClip intro.wav from path: C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\AriDev-JesterFree\intro.wav
+[Debug  :LCSoundTool] Finished loading AudioClip intro.wav with length of 40!
+[Debug  :LCSoundTool] Loading AudioClip solo.wav from path: C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\AriDev-JesterFree\solo.wav
+[Debug  :LCSoundTool] Finished loading AudioClip solo.wav with length of 255.622!
+[Info   :Jester Free] Jester Free is loaded
+[Info   :   BepInEx] Loading [Terminal Api 1.5.4]
+[Info   :Terminal Api] Plugin TerminalApi is loaded!
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.7.7]
+[Info   :ainavt.lc.lethalconfig] Registered config "Lethal Company Input Utils/General/Locale"
+[Info   :Lethal Company Input Utils] Registered InputUtilsExtendedMouse Layout Override!
+[Info   :Lethal Company Input Utils] InputUtils 0.7.7 has finished loading!
+[Info   :   BepInEx] Loading [Terminal History 1.0.4]
+[Info   :Terminal History] 
+
+
+Plugin Terminal History is loaded!
+
+
+
+[Info   :   BepInEx] Loading [LethalLib 0.16.1]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :   BepInEx] Loading [Cirno Fumo Scrap 2.0.1]
+[Info   :badham.lc.cirnoscrap] Cirno has infiltrated your facilities [Version 2.0.1]...
+[Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
+[Info   :   BepInEx] Loading [BetterEmotes 1.5.3]
+[Info   :BetterEmotes] BetterEmotes loading...
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SignEmoteText.
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SyncAnimatorToOthers.
+[Info   :RuntimeNetcodeRPCValidator] Patched 2 ServerRPCs & 2 ClientRPCs on NetworkBehaviour SyncVRState.
+[Info   :RuntimeNetcodeRPCValidator] Successfully registered first patch for type PlayerControllerB.Awake | Triggered by BetterEmotes
+[Info   :BetterEmotes] BetterEmotes loaded
+[Info   :   BepInEx] Loading [BetterTeleporter 1.2.2]
+[Info   :BetterTeleporter] Patched 'ShipTeleporterPatch.TeleportPlayerOutWithInverseTeleporter'
+[Info   :BetterTeleporter] Patched 'ShipTeleporterPatch.beamUpPlayer'
+[Info   :BetterTeleporter] Plugin BetterTeleporter is loaded!
+[Info   :   BepInEx] Loading [BetterClock 1.0.3]
+[Info   :BetterClock] Applying Harmony patches
+[Info   :BetterClock] Patched HUDManager.Awake
+[Info   :BetterClock] Patched HUDManager.SetClockVisible
+[Info   :BetterClock] Patched HUDManager.SetClock
+[Info   :BetterClock] Patched TimeOfDay.MoveTimeOfDay
+[Info   :BetterClock] 4 patches applied
+[Info   :   BepInEx] Loading [Boombox No Power 1.0.0.0]
+[Info   :BoomBox.BoomBoxNoPower] Boombox No Power has awoken
+[Info   :   BepInEx] Loading [BoomboxSyncFix 1.1.0]
+[Info   :BoomboxSyncFix] Plugin BoomboxSyncFix has loaded!
+[Info   :   BepInEx] Loading [MoreCompany 1.9.4]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Loading SETTINGS...
+[Info   :MoreCompany] Checking: C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Loading COSMETICS...
+[Info   :MoreCompany] Loading DEFAULT COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [ModelReplacementAPI 2.4.7]
+[Info   :meow.ModelReplacementAPI] Plugin meow.ModelReplacementAPI is loaded!
+[Info   :   BepInEx] Loading [More Suits 1.4.3]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Info   :   BepInEx] Loading [tohrumodel 0.1.0]
+[Info   :   Console] TohruProject.tohrubundle
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ModelReplacement.TohruReplacement to suit name tohru.
+[Info   :tohrumodel] Plugin coffeli.tohrumodel is loaded!
+[Info   :   BepInEx] Loading [CleanerLogs 1.0.0]
+[Info   :CleanerLogs] Plugin CleanerLogs (com.elitemastereric.CleanerLogs) is loaded!
+[Warning:CleanerLogs] Base game log messages are being filtered to Error. This may hinder mod debugging.
+[Info   :   BepInEx] Loading [SlimeTamingFix 1.0.0]
+[Info   :SlimeTamingFix] Plugin SlimeTamingFix (com.elitemastereric.slimetamingfix) is loaded!
+[Info   :   BepInEx] Loading [CullFactory 1.1.5]
+[Info   :   BepInEx] Loading [LethalExpansion(core) 1.3.15]
+[Info   :LethalExpansion(core)] Plugin: LethalExpansion(core) (version: 1.3.15) is loading...
+[Info   :LethalExpansion(core)] Loaded LethalExpansion: LethalExpansion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[Info   :LethalExpansion(core)] Patched LethalExpansion#Awake
+[Info   :LethalExpansion(core)] Plugins folder found: C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins
+[Info   :LethalExpansion(core)] Mod path is: C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\jockie-LethalExpansionCore
+[Info   :LethalExpansion(core)] Module 'MathBooks' v1.0.0.0 was loaded in 75ms
+[Info   :LethalExpansion(core)] Module 'MikuScrap' v1.3.0.0 was loaded in 6ms
+[Info   :LethalExpansion(core)] Water support applied to the HDRenderPipelineAsset.
+[Info   :LethalExpansion(core)] Plugin: LethalExpansion(core) (version: 1.3.15) is loaded.
+[Info   :   BepInEx] Loading [Cozy Improvements 1.2.2]
+[Info   :Cozy Improvements] Plugin Cozy Improvements - com.spycibot.cozyimprovements - 1.2.2 is loaded!
+[Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
+[Info   :Custom Boombox Music] Loading...
+[Info   :Custom Boombox Music] Created directory at C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music
+[Info   :Custom Boombox Music] Initializing config...
+[Info   :Custom Boombox Music] Config initialized!
+[Info   :Custom Boombox Music] Loading Complete!
+[Info   :   BepInEx] Loading [CustomBoomboxFix 1.2.5]
+[Info   :CustomBoomboxFix] Plugin CustomBoomboxFix is loaded!
+[Info   :CustomBoomboxFix] Deleting files in 'C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music'...
+[Error  :CustomBoomboxFix] An error occurred while trying to delete files: Access to the path 'C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01 Hills of Radiant Winds (Another Edit Version).mp3' is denied.
+[Info   :CustomBoomboxFix] Copied Fly Project - Toca Toca.mp3 from C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\GhostCN-SCPGHOST_Boombox_Pack\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied Ticking Away (prelude) - 2023VALORANT全球冠军赛主题曲前奏.mp3 from C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\GhostCN-SCPGHOST_Boombox_Pack\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied Tobu - Higher.mp3 from C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\GhostCN-SCPGHOST_Boombox_Pack\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied YOASOBI - 群青~1.mp3 from C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\GhostCN-SCPGHOST_Boombox_Pack\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied 春日影(MyGO!!!!! ver.) - MyGO!!!!!.mp3 from C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\GhostCN-SCPGHOST_Boombox_Pack\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied 爷们儿要战斗(周政 remix).mp3 from C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\GhostCN-SCPGHOST_Boombox_Pack\Custom Songs to Boombox Music folder.
+[Info   :CustomBoomboxFix] Copied 蔡琴 - 渡口.mp3 from C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\GhostCN-SCPGHOST_Boombox_Pack\Custom Songs to Boombox Music folder.
+[Info   :   BepInEx] Loading [DiscountAlert 2.3.0.0]
+[Info   :DiscountAlert] Plugin discount.alert is loaded!
+[Info   :   BepInEx] Loading [Sell Bodies 1.9.1]
+[Info   :Sell Bodies] Set Hoarding bug to drop Dead Hoarder Bug
+[Info   :Sell Bodies] Set Bunker Spider to drop Dead Bunker Spider
+[Info   :Sell Bodies] Set Crawler to drop Dead Thumper
+[Info   :Sell Bodies] Set Centipede to drop Dead Snare Flea
+[Info   :Sell Bodies] Set Nutcracker to drop Dead Nutcracker
+[Info   :Sell Bodies] Set Flowerman to drop Bracken Remains
+[Info   :Sell Bodies] Set Baboon hawk to drop Dead Baboon Hawk
+[Info   :Sell Bodies] Set MouthDog to drop Eyeless Dog Teeth
+[Info   :Sell Bodies] Set Spring to drop Coil-Head Core
+[Info   :Sell Bodies] Set Girl to drop Vials of Ectoplasm
+[Info   :Sell Bodies] Set ForestGiant to drop Forest Keeper Sapling
+[Info   :Sell Bodies] Set Jester to drop Jester Box
+[Info   :Sell Bodies] Set Blob to drop Dead Hygrodere
+[Info   :Sell Bodies] Set Puffer to drop Dead Spore Lizard
+[Info   :Sell Bodies] Set Manticoil to drop Dead Manticoil
+[Info   :Sell Bodies] Set RadMech to drop Old Bird Core
+[Info   :Sell Bodies] Set Tulip Snake to drop Dead Tulip Snake
+[Info   :Sell Bodies] Set Clay Surgeon to drop Clay Surgeon Scissors
+[Info   :Sell Bodies] Set Bush Wolf to drop Kidnapper Fox Tail
+[Info   :Sell Bodies] Set ModdedEnemyPowerLevel1 to drop Common Enemy Remains
+[Info   :Sell Bodies] Set ModdedEnemyPowerLevel2 to drop Rare Enemy Remains
+[Info   :Sell Bodies] Set ModdedEnemyPowerLevel3 to drop UltraRare Enemy Remains
+[Info   :Sell Bodies] Sell Bodies is patched!
+[Info   :   BepInEx] Loading [BetterStamina 1.3.2]
+[Info   :BetterStamina] BindingConfigs
+[Info   :BetterStamina] BetterStamina loaded
+[Info   :   BepInEx] Loading [FasterItemDropship 1.3.0]
+[Info   :FasterItemDropship] BindingConfigs
+[Info   :FasterItemDropship] FasterItemDropship loaded
+[Info   :   BepInEx] Loading [LetMeLookDown 1.0.1]
+[Info   :LetMeLookDown] LetMeLookDown mod loaded
+[Info   :   BepInEx] Loading [ObjectVolumeController 1.1.0]
+[Info   :ObjectVolumeController-1.1.0] BindingConfigs
+[Info   :ObjectVolumeController-1.1.0] Initializing hotkeys.
+[Info   :ObjectVolumeController] ObjectVolumeController loaded
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 2.0.32]
+[Info   :ReservedItemSlotCore-2.0.32] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.32] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 2.0.6]
+[Info   :ReservedFlashlightSlot-2.0.6] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.32] Created ReservedItemSlotData for: flashlight. Slot priority: 200
+[Info   :ReservedFlashlightSlot-2.0.6] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedSprayPaintSlot 1.1.1]
+[Info   :ReservedSprayPaintSlot-1.1.1] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.32] Created ReservedItemSlotData for: spray_paint. Slot priority: 25
+[Info   :ReservedSprayPaintSlot-1.1.1] ReservedSprayPaintSlot loaded
+[Info   :   BepInEx] Loading [ReservedUtilitySlot 1.0.5]
+[Info   :ReservedUtilitySlot-1.0.5] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.32] Created ReservedItemSlotData for: utility. Slot priority: 80
+[Info   :ReservedUtilitySlot-1.0.5] ReservedUtilitySlot loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 2.0.5]
+[Info   :ReservedWalkieSlot-2.0.5] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.32] Created ReservedItemSlotData for: walkie_talkie. Slot priority: 150
+[Info   :ReservedWalkieSlot-2.0.5] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [ReservedWeaponSlot 1.1.4]
+[Info   :ReservedWeaponSlot-1.1.4] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.32] Created ReservedItemSlotData for: weapons. Slot priority: 100
+[Info   :ReservedItemSlotCore-2.0.32] Created ReservedItemSlotData for: ammo. Slot priority: -100
+[Info   :ReservedWeaponSlot-1.1.4] ReservedWeaponSlot loaded
+[Info   :   BepInEx] Loading [Fair AI 1.3.6]
+[Info   :GoldenKitten.FairAI] Fair AI initiated!
+[Info   :   BepInEx] Loading [Dynamic Deadline 1.2.2]
+[Info   :Dynamic Deadline] No more short deadlines for excessive quotas.
+[Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.6]
+[Info   :HDLethalCompany-Sligili] HDLethalCompany loaded
+[Info   :   BepInEx] Loading [MaxWasUnavailable.LethalModDataLib 1.2.2]
+[Debug  :MaxWasUnavailable.LethalModDataLib] Patching...
+[Debug  :MaxWasUnavailable.LethalModDataLib] Patched!
+[Info   :MaxWasUnavailable.LethalModDataLib] Plugin MaxWasUnavailable.LethalModDataLib is loaded!
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.3.6]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :LethalLevelLoader] evaisa.lethallibfound, enabling compatability patches.
+[Info   :LethalLevelLoader] Finding LethalBundles!
+[Info   :LethalLevelLoader] Config Level Set As: User
+[Info   :   BepInEx] Loading [IntroTweaks 1.5.0]
+[Debug  :IntroTweaks] Skipping splash screens. Ew.
+[Info   :IntroTweaks] Plugin loaded.
+[Info   :   BepInEx] Loading [Corporate Restructure 1.0.6]
+[Info   :Corporate Restructure] Corporate Restructure -> loading
+[Info   :Corporate Restructure] Corporate Restructure -> complete
+[Info   :   BepInEx] Loading [JetpackWarning 2.2.0]
+[Info   :JetpackWarning] Plugin JetpackWarning is loaded!
+[Info   :   BepInEx] Loading [Giant Fumo 1.0.0]
+[Info   :Giant Fumo] The big Reimu Fumo has been loaded
+[Info   :   BepInEx] Loading [LethalExpansion 1.3.45]
+[Info   :LethalExpansion(core)] Prevented LethalExpansion from initializing
+[Info   :   BepInEx] Loading [LethalPaintings 1.0.0]
+[Info   :LethalPaintings] Plugin LethalPaintings is loaded!
+[Info   :   BepInEx] Loading [LethalPosters 1.0.0]
+[Info   :LethalPosters] Plugin LethalPosters (1.0.0) is loaded!
+[Info   :   BepInEx] Loading [ArknightsPlayerModel 6.0.1]
+[Info   :   Console] ArknightsPlayerModel.LuckyJestaArknightsbundle
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRGLADIIA to suit name gladiia.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRLAPLUMASWIM to suit name lapluma(swim).
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRSURTR to suit name surtr.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRDOCTOR to suit name doctor.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRFROSTNOVA to suit name frostnova.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRAMIYA to suit name amiya.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MREXUSIAI to suit name exusiai.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRTOMIMI to suit name tomimi.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRTHERESA to suit name theresa.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRKALTSIT to suit name kaltsit.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRMUDROCK to suit name mudrock.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRSUZURAN to suit name suzuran.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRPRIESTESS to suit name priestess.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRBLAZE to suit name blaze.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRPROVENCE to suit name provence.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRSURTRSWIM to suit name surtr(swim).
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRW to suit name w.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type ArknightsModelReplacement.MRTALULAH to suit name talulah.
+[Info   :ArknightsPlayerModel] Plugin LuckyJesta.Mod.Model.Arknights is loaded!
+[Info   :   BepInEx] Loading [Snow Miku Glowing 1.0.0]
+[Info   :Snow Miku Glowing] Patched Item Tutorial
+[Info   :   BepInEx] Loading [Snow Miku Tanchou 1.0.0]
+[Info   :Snow Miku Tanchou] Patched Item Tutorial
+[Info   :   BepInEx] Loading [LCAmmoCheck 1.1.1]
+[Message:LCAmmoCheck] LCAmmoCheck loaded!
+[Info   :   BepInEx] Loading [Elads HUD 1.2.3]
+[Info   : Elads HUD] Plugin Elad's HUD is loaded!
+[Info   :   BepInEx] Loading [TouchScreen 1.1.2]
+[Info   :TouchScreen] Loaded resource icon: HoverIcon
+[Info   :TouchScreen]  > Hooked into InputUtils 0.7.7
+[Info   :TouchScreen]  > Hooked into LethalExpansionCore 1.3.15
+[Info   :TouchScreen] Enabled TouchScreen
+[Info   :   BepInEx] Loading [Hide Chat 1.0.0]
+[Debug  :Miodec.HideChat] hidechat is awake
+[Info   :   BepInEx] Loading [BlueArchiveModelReplaymentByMK 8.0.0]
+[Info   :   Console] BlueArchiveModelReplayment.bamodelbundle
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRARISU to suit name arisu.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRKAZUSA to suit name kazusa.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRKISAKI to suit name kisaki.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRKOKONA to suit name kokona.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRMARI to suit name mari.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRMIDORI to suit name midori.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRMOMOMI to suit name momomi.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRNOAH to suit name noah.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRYUKA to suit name yuka.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRYUZU to suit name yuzu.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRHIFUMI to suit name hifumi.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRHOSINO to suit name hosino.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRSHIROKO to suit name shiroko.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRHANAKO to suit name hanako.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRAZUSA to suit name azusa.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRKOHARU to suit name koharu.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRAKO to suit name ako.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRARONA to suit name arona.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRHINA to suit name hina.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRIORI to suit name iori.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRJUSTICEMOB to suit name justice_mob.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRMAKI to suit name maki.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRMIYAKO to suit name miyako.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRNAGISA to suit name nagisa.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRPLANA to suit name plana.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRMIKA to suit name mika(sport).
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRFUUKA to suit name fuuka.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRHARUNA to suit name haruna.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRIROHA to suit name iroha.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRKOYUKI to suit name koyuki_.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRSAKURAKO to suit name sakurako.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRSEIA to suit name seia.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRSHUN to suit name shun.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRSENSEI to suit name sensei.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRARU to suit name aru(dress).
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRASUNA to suit name asuna.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRHINADRESS to suit name hina(dress).
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRIBUKI to suit name ibuki.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRKARIN to suit name karin.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRNATSU to suit name natsu.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRRIO to suit name rio.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRSERINA to suit name serina.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRSHUPOGAKI1 to suit name highlandertwins1.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRSHUPOGAKI2 to suit name highlandertwins2.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRTOKI to suit name toki.
+[Info   :meow.ModelReplacementAPI] Registering body replacement type BlueArchiveModelReplayment.BRYUME to suit name yume.
+[Info   :BlueArchiveModelReplaymentByMK] Plugin mkmods.BlueArchiveModelReplayment is loaded!
+[Info   :   BepInEx] Loading [MoreItems 1.0.2]
+[Info   : MoreItems] Plugin MoreItems is loaded!
+[Info   :   BepInEx] Loading [Sell Tracker 1.2.1]
+[Info   :Sell Tracker] Sell Tracker plugin loaded!
+[Info   :   BepInEx] Loading [DoorBreach 1.1.0]
+[Info   :DoorBreach] Nyxchrono-DoorBreach v1.1.0 is initializing
+[Info   :DoorBreach] Nyxchrono-DoorBreach v1.1.0 has initialized
+[Info   :   BepInEx] Loading [Health Station mod 1.0.0.1]
+[Info   :Octolar.Healthstation] Octolar HealthStation mod is now active
+[Info   :   BepInEx] Loading [OrbitRecharge 0.0.1]
+[Info   :OrbitRecharge] Plugin OrbitRecharge is loaded!
+[Info   :   BepInEx] Loading [FireExitFlip 1.0.0]
+[Info   :FireExitFlip] Plugin FireExitFlipped is loaded!
+[Info   :   BepInEx] Loading [Black Mesa Interior 0.9.0]
+[Info   :Black Mesa Interior] Interior Assets loaded successfully
+[Info   :Black Mesa Interior] Registered Interior on moon name Black Mesa with rarity 99999
+[Info   :Black Mesa Interior] Loaded Extended DungeonFlow
+[Info   :   BepInEx] Loading [TVLoader 1.1.1]
+[Info   :  TVLoader] C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\chineseweeb-MyGo_TV_ETC has 11 videos.
+[Info   :  TVLoader] Global has 0 videos.
+[Info   :  TVLoader] Loaded 11 total.
+[Info   :  TVLoader] PluginName: TVLoader, VersionString: 1.1.1 is loaded. Video Count: 11
+[Info   :   BepInEx] Loading [Flashlight 1.5.0]
+[Info   :Flashlight] ------Flashlight done.------
+[Info   :   BepInEx] Loading [WalkieUse 1.5.0]
+[Info   : WalkieUse] ------Walkie done.------
+[Info   : WalkieUse] Walkie in Terminal: False
+[Info   :   BepInEx] Loading [BetterSprayPaint 2.0.4]
+[Info   :BetterSprayPaint] Loading taffyko.BetterSprayPaint
+[Info   :   BepInEx] Loading [Late Company 1.0.16]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [Too Many Suits 1.1.0]
+[Info   :   BepInEx] Loading [ItemClippingFix 1.1.4]
+[Info   :ItemClippingFix] Checking for LobbyControl
+[Info   :ItemClippingFix] Plugin ItemClippingFix is loaded!
+[Info   :   BepInEx] Loading [PathfindingLagFix 1.2.1]
+[Message:   BepInEx] Chainloader startup complete
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'WoodPikesContainer') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'HandBell') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'FlowerSnakeEnemy') is missing!
+[Info   :LethalLevelLoader] No ExtendedMod Found In Bundle: blackmesaextendedlevel.lethalbundle. Forcefully Loading ExtendedContent!
+[Info   :LethalLevelLoader] Found ExtendedMod: FumoCompanyExtendedMod
+[Info   :LethalLevelLoader] Adding ScenePath: BlackMesaScene
+[Info   :ReservedFlashlightSlot-2.0.6] Initializing hotkeys.
+[Info   :ReservedWalkieSlot-2.0.5] Initializing hotkeys.
+[Info   :ReservedWeaponSlot-1.1.4] Initializing hotkeys.
+[Info   :LethalExpansion(core)] Loading scene 'InitSceneLaunchOptions'
+[Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Info   : Elads HUD] 73 plugins loaded
+[Info   : Elads HUD] Plugin GUID: 299792458.MoreMoneyStart
+[Info   : Elads HUD] Plugin GUID: ainavt.lc.lethalconfig
+[Info   : Elads HUD] Plugin GUID: LCSoundTool
+[Info   : Elads HUD] Plugin GUID: AriDev.JesterFree
+[Info   : Elads HUD] Plugin GUID: atomic.terminalapi
+[Info   : Elads HUD] Plugin GUID: com.rune580.LethalCompanyInputUtils
+[Info   : Elads HUD] Plugin GUID: atomic.terminalhistory
+[Info   : Elads HUD] Plugin GUID: evaisa.lethallib
+[Info   : Elads HUD] Plugin GUID: badham.lc.cirnoscrap
+[Info   : Elads HUD] Plugin GUID: NicholaScott.BepInEx.RuntimeNetcodeRPCValidator
+[Info   : Elads HUD] Plugin GUID: BetterEmotes
+[Info   : Elads HUD] Plugin GUID: BetterTeleporter
+[Info   : Elads HUD] Plugin GUID: BlueAmulet.BetterClock
+[Info   : Elads HUD] Plugin GUID: BoomBox.BoomBoxNoPower
+[Info   : Elads HUD] Plugin GUID: BoomboxSyncFix
+[Info   : Elads HUD] Plugin GUID: me.swipez.melonloader.morecompany
+[Info   : Elads HUD] Plugin GUID: meow.ModelReplacementAPI
+[Info   : Elads HUD] Plugin GUID: x753.More_Suits
+[Info   : Elads HUD] Plugin GUID: coffeli.tohrumodel
+[Info   : Elads HUD] Plugin GUID: com.elitemastereric.CleanerLogs
+[Info   : Elads HUD] Plugin GUID: com.elitemastereric.slimetamingfix
+[Info   : Elads HUD] Plugin GUID: com.fumiko.CullFactory
+[Info   : Elads HUD] Plugin GUID: com.github.lethalmods.lethalexpansioncore
+[Info   : Elads HUD] Plugin GUID: com.spycibot.cozyimprovements
+[Info   : Elads HUD] Plugin GUID: com.steven.lethalcompany.boomboxmusic
+[Info   : Elads HUD] Plugin GUID: CustomBoomboxFix
+[Info   : Elads HUD] Plugin GUID: discount.alert
+[Info   : Elads HUD] Plugin GUID: Entity378.sellbodies
+[Info   : Elads HUD] Plugin GUID: FlipMods.BetterStamina
+[Info   : Elads HUD] Plugin GUID: FlipMods.FasterItemDropship
+[Info   : Elads HUD] Plugin GUID: FlipMods.LetMeLookDown
+[Info   : Elads HUD] Plugin GUID: FlipMods.ObjectVolumeController
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedItemSlotCore
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedFlashlightSlot
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedSprayPaintSlot
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedUtilitySlot
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedWalkieSlot
+[Info   : Elads HUD] Plugin GUID: FlipMods.ReservedWeaponSlot
+[Info   : Elads HUD] Plugin GUID: GoldenKitten.FairAI
+[Info   : Elads HUD] Plugin GUID: Haha.DynamicDeadline
+[Info   : Elads HUD] Plugin GUID: HDLethalCompany
+[Info   : Elads HUD] Plugin GUID: MaxWasUnavailable.LethalModDataLib
+[Info   : Elads HUD] Plugin GUID: imabatby.lethallevelloader
+[Info   : Elads HUD] Plugin GUID: IntroTweaks
+[Info   : Elads HUD] Plugin GUID: jamil.corporate_restructure
+[Info   : Elads HUD] Plugin GUID: JetpackWarning
+[Info   : Elads HUD] Plugin GUID: koizumi.giantFumo
+[Info   : Elads HUD] Plugin GUID: LethalExpansion
+[Info   : Elads HUD] Plugin GUID: LethalPaintings
+[Info   : Elads HUD] Plugin GUID: LethalPosters
+[Info   : Elads HUD] Plugin GUID: LuckyJesta.Mod.Model.Arknights
+[Info   : Elads HUD] Plugin GUID: malco.SnowMikuGlowing
+[Info   : Elads HUD] Plugin GUID: malco.SnowMikuTanchou
+[Info   : Elads HUD] Plugin GUID: me.axd1x8a.lcammocheck
+[Info   : Elads HUD] Plugin GUID: me.eladnlg.customhud
+[Info   : Elads HUD] Plugin GUID: me.pm.TheDeadSnake
+[Info   : Elads HUD] Plugin GUID: Miodec.HideChat
+[Info   : Elads HUD] Plugin GUID: mkmods.BlueArchiveModelReplayment
+[Info   : Elads HUD] Plugin GUID: MoreItems
+[Info   : Elads HUD] Plugin GUID: NutNutty.SellTracker
+[Info   : Elads HUD] Plugin GUID: Nyxchrono-DoorBreach
+[Info   : Elads HUD] Plugin GUID: Octolar.Healthstation
+[Info   : Elads HUD] Plugin GUID: OrbitRecharge
+[Info   : Elads HUD] Plugin GUID: PC.FireExitFlip
+[Info   : Elads HUD] Plugin GUID: Plastered_Crab.BlackMesaInterior
+[Info   : Elads HUD] Plugin GUID: rattenbonkers.TVLoader
+[Info   : Elads HUD] Plugin GUID: rr.Flashlight
+[Info   : Elads HUD] Plugin GUID: rr.Walkie
+[Info   : Elads HUD] Plugin GUID: taffyko.BetterSprayPaint
+[Info   : Elads HUD] Plugin GUID: twig.latecompany
+[Info   : Elads HUD] Plugin GUID: verity.TooManySuits
+[Info   : Elads HUD] Plugin GUID: viviko.ItemClippingFix
+[Info   : Elads HUD] Plugin GUID: Zaggy1024.PathfindingLagFix
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM1, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM2, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM3, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM4, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM5, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: IMESelected, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Using NewInputSystem
+[Warning: Unity Log] MaximizedWindow is not currently supported on Windows, setting to FullsceenWindow instead
+[Error  : WalkieUse] Terminal Walkie: False
+[Info   :LethalExpansion(core)] Loading scene 'InitScene'
+[Info   :LethalExpansion(core)] Registered prefab 'itemshipanimcontainer' from 'LethalExpansion'
+[Info   :LethalExpansion(core)] Registered scrap 'mathbooks' from 'MathBooks'
+[Info   :LethalExpansion(core)] Registered scrap 'Hatsune Miku figurine' from 'MikuScrap'
+[Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[Info   :LethalLevelLoader] Registering Bundle Content!
+[Info   :LethalLevelLoader] Skipped Registering 633 NetworkObjects As They Were Already Registered.
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type SprayPaintItem and name Awake and parameters 
+[Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
+[Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
+[Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
+[Debug  :MaxWasUnavailable.LethalModDataLib] Loading data from file LCGeneralSaveData.moddata with key MaxWasUnavailable.LethalModDataLib.LMDLVersion...
+[Debug  :MaxWasUnavailable.LethalModDataLib] LethalModDataLib version (1.2.2) matches last saved version (1.2.2).
+[Debug  :MaxWasUnavailable.LethalModDataLib] Saving data to file LCGeneralSaveData.moddata with key MaxWasUnavailable.LethalModDataLib.LMDLVersion...
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   :LethalExpansion(core)] Unloading scene: InitSceneLaunchOptions
+[Info   :LethalExpansion(core)] Unloading scene: InitScene
+[Info   :MoreCompany] LANMenu startLAN Patched
+[Info   :LethalExpansion(core)] Loading scene 'MainMenu'
+[Warning: Unity Log] MaximizedWindow is not currently supported on Windows, setting to FullsceenWindow instead
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Debug  :ainavt.lc.lethalconfig] 73 mods loaded: 299792458.MoreMoneyStart;ainavt.lc.lethalconfig;LCSoundTool;AriDev.JesterFree;atomic.terminalapi;com.rune580.LethalCompanyInputUtils;atomic.terminalhistory;evaisa.lethallib;badham.lc.cirnoscrap;NicholaScott.BepInEx.RuntimeNetcodeRPCValidator;BetterEmotes;BetterTeleporter;BlueAmulet.BetterClock;BoomBox.BoomBoxNoPower;BoomboxSyncFix;me.swipez.melonloader.morecompany;meow.ModelReplacementAPI;x753.More_Suits;coffeli.tohrumodel;com.elitemastereric.CleanerLogs;com.elitemastereric.slimetamingfix;com.fumiko.CullFactory;com.github.lethalmods.lethalexpansioncore;com.spycibot.cozyimprovements;com.steven.lethalcompany.boomboxmusic;CustomBoomboxFix;discount.alert;Entity378.sellbodies;FlipMods.BetterStamina;FlipMods.FasterItemDropship;FlipMods.LetMeLookDown;FlipMods.ObjectVolumeController;FlipMods.ReservedItemSlotCore;FlipMods.ReservedFlashlightSlot;FlipMods.ReservedSprayPaintSlot;FlipMods.ReservedUtilitySlot;FlipMods.ReservedWalkieSlot;FlipMods.ReservedWeaponSlot;GoldenKitten.FairAI;Haha.DynamicDeadline;HDLethalCompany;MaxWasUnavailable.LethalModDataLib;imabatby.lethallevelloader;IntroTweaks;jamil.corporate_restructure;JetpackWarning;koizumi.giantFumo;LethalExpansion;LethalPaintings;LethalPosters;LuckyJesta.Mod.Model.Arknights;malco.SnowMikuGlowing;malco.SnowMikuTanchou;me.axd1x8a.lcammocheck;me.eladnlg.customhud;me.pm.TheDeadSnake;Miodec.HideChat;mkmods.BlueArchiveModelReplayment;MoreItems;NutNutty.SellTracker;Nyxchrono-DoorBreach;Octolar.Healthstation;OrbitRecharge;PC.FireExitFlip;Plastered_Crab.BlackMesaInterior;rattenbonkers.TVLoader;rr.Flashlight;rr.Walkie;taffyko.BetterSprayPaint;twig.latecompany;verity.TooManySuits;viviko.ItemClippingFix;Zaggy1024.PathfindingLagFix
+[Debug  :ainavt.lc.lethalconfig] 299792458.MoreMoneyStart : MoreMoneyStart : 2.1.0
+[Debug  :ainavt.lc.lethalconfig] ainavt.lc.lethalconfig : LethalConfig : 1.4.2
+[Debug  :ainavt.lc.lethalconfig] LCSoundTool : LC Sound Tool : 1.5.1
+[Debug  :ainavt.lc.lethalconfig] AriDev.JesterFree : Jester Free : 2.0.0
+[Debug  :ainavt.lc.lethalconfig] atomic.terminalapi : Terminal Api : 1.5.4
+[Debug  :ainavt.lc.lethalconfig] com.rune580.LethalCompanyInputUtils : Lethal Company Input Utils : 0.7.7
+[Debug  :ainavt.lc.lethalconfig] atomic.terminalhistory : Terminal History : 1.0.4
+[Debug  :ainavt.lc.lethalconfig] evaisa.lethallib : LethalLib : 0.16.1
+[Debug  :ainavt.lc.lethalconfig] badham.lc.cirnoscrap : Cirno Fumo Scrap : 2.0.1
+[Debug  :ainavt.lc.lethalconfig] NicholaScott.BepInEx.RuntimeNetcodeRPCValidator : RuntimeNetcodeRPCValidator : 0.2.5
+[Debug  :ainavt.lc.lethalconfig] BetterEmotes : BetterEmotes : 1.5.3
+[Debug  :ainavt.lc.lethalconfig] BetterTeleporter : BetterTeleporter : 1.2.2
+[Debug  :ainavt.lc.lethalconfig] BlueAmulet.BetterClock : BetterClock : 1.0.3
+[Warning:ainavt.lc.lethalconfig] No UI component found for config of type KeyboardShortcut (Clock/OverrideKeybind)
+[Debug  :ainavt.lc.lethalconfig] BoomBox.BoomBoxNoPower : Boombox No Power : 1.0.0.0
+[Debug  :ainavt.lc.lethalconfig] BoomboxSyncFix : BoomboxSyncFix : 1.1.0
+[Debug  :ainavt.lc.lethalconfig] me.swipez.melonloader.morecompany : MoreCompany : 1.9.4
+[Debug  :ainavt.lc.lethalconfig] meow.ModelReplacementAPI : ModelReplacementAPI : 2.4.7
+[Debug  :ainavt.lc.lethalconfig] x753.More_Suits : More Suits : 1.4.3
+[Debug  :ainavt.lc.lethalconfig] coffeli.tohrumodel : tohrumodel : 0.1.0
+[Debug  :ainavt.lc.lethalconfig] com.elitemastereric.CleanerLogs : CleanerLogs : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] com.elitemastereric.slimetamingfix : SlimeTamingFix : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] com.fumiko.CullFactory : CullFactory : 1.1.5
+[Debug  :ainavt.lc.lethalconfig] com.github.lethalmods.lethalexpansioncore : LethalExpansion(core) : 1.3.15
+[Debug  :ainavt.lc.lethalconfig] com.spycibot.cozyimprovements : Cozy Improvements : 1.2.2
+[Debug  :ainavt.lc.lethalconfig] com.steven.lethalcompany.boomboxmusic : Custom Boombox Music : 1.4.0
+[Debug  :ainavt.lc.lethalconfig] CustomBoomboxFix : CustomBoomboxFix : 1.2.5
+[Debug  :ainavt.lc.lethalconfig] discount.alert : DiscountAlert : 2.3.0.0
+[Debug  :ainavt.lc.lethalconfig] Entity378.sellbodies : Sell Bodies : 1.9.1
+[Debug  :ainavt.lc.lethalconfig] FlipMods.BetterStamina : BetterStamina : 1.3.2
+[Debug  :ainavt.lc.lethalconfig] FlipMods.FasterItemDropship : FasterItemDropship : 1.3.0
+[Debug  :ainavt.lc.lethalconfig] FlipMods.LetMeLookDown : LetMeLookDown : 1.0.1
+[Debug  :ainavt.lc.lethalconfig] FlipMods.ObjectVolumeController : ObjectVolumeController : 1.1.0
+[Debug  :ainavt.lc.lethalconfig] FlipMods.ReservedItemSlotCore : ReservedItemSlotCore : 2.0.32
+[Debug  :ainavt.lc.lethalconfig] FlipMods.ReservedFlashlightSlot : ReservedFlashlightSlot : 2.0.6
+[Debug  :ainavt.lc.lethalconfig] FlipMods.ReservedSprayPaintSlot : ReservedSprayPaintSlot : 1.1.1
+[Debug  :ainavt.lc.lethalconfig] FlipMods.ReservedUtilitySlot : ReservedUtilitySlot : 1.0.5
+[Debug  :ainavt.lc.lethalconfig] FlipMods.ReservedWalkieSlot : ReservedWalkieSlot : 2.0.5
+[Debug  :ainavt.lc.lethalconfig] FlipMods.ReservedWeaponSlot : ReservedWeaponSlot : 1.1.4
+[Debug  :ainavt.lc.lethalconfig] GoldenKitten.FairAI : Fair AI : 1.3.6
+[Debug  :ainavt.lc.lethalconfig] Haha.DynamicDeadline : Dynamic Deadline : 1.2.2
+[Debug  :ainavt.lc.lethalconfig] HDLethalCompany : HDLethalCompany-Sligili : 1.5.6
+[Debug  :ainavt.lc.lethalconfig] MaxWasUnavailable.LethalModDataLib : MaxWasUnavailable.LethalModDataLib : 1.2.2
+[Debug  :ainavt.lc.lethalconfig] imabatby.lethallevelloader : LethalLevelLoader : 1.3.6
+[Debug  :ainavt.lc.lethalconfig] IntroTweaks : IntroTweaks : 1.5.0
+[Debug  :ainavt.lc.lethalconfig] jamil.corporate_restructure : Corporate Restructure : 1.0.6
+[Debug  :ainavt.lc.lethalconfig] JetpackWarning : JetpackWarning : 2.2.0
+[Debug  :ainavt.lc.lethalconfig] koizumi.giantFumo : Giant Fumo : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] LethalExpansion : LethalExpansion : 1.3.45
+[Debug  :ainavt.lc.lethalconfig] LethalPaintings : LethalPaintings : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] LethalPosters : LethalPosters : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] LuckyJesta.Mod.Model.Arknights : ArknightsPlayerModel : 6.0.1
+[Debug  :ainavt.lc.lethalconfig] malco.SnowMikuGlowing : Snow Miku Glowing : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] malco.SnowMikuTanchou : Snow Miku Tanchou : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] me.axd1x8a.lcammocheck : LCAmmoCheck : 1.1.1
+[Debug  :ainavt.lc.lethalconfig] me.eladnlg.customhud : Elads HUD : 1.2.3
+[Debug  :ainavt.lc.lethalconfig] me.pm.TheDeadSnake : TouchScreen : 1.1.2
+[Debug  :ainavt.lc.lethalconfig] Miodec.HideChat : Hide Chat : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] mkmods.BlueArchiveModelReplayment : BlueArchiveModelReplaymentByMK : 8.0.0
+[Debug  :ainavt.lc.lethalconfig] MoreItems : MoreItems : 1.0.2
+[Debug  :ainavt.lc.lethalconfig] NutNutty.SellTracker : Sell Tracker : 1.2.1
+[Debug  :ainavt.lc.lethalconfig] Nyxchrono-DoorBreach : DoorBreach : 1.1.0
+[Debug  :ainavt.lc.lethalconfig] Octolar.Healthstation : Health Station mod : 1.0.0.1
+[Debug  :ainavt.lc.lethalconfig] OrbitRecharge : OrbitRecharge : 0.0.1
+[Debug  :ainavt.lc.lethalconfig] PC.FireExitFlip : FireExitFlip : 1.0.0
+[Debug  :ainavt.lc.lethalconfig] Plastered_Crab.BlackMesaInterior : Black Mesa Interior : 0.9.0
+[Debug  :ainavt.lc.lethalconfig] rattenbonkers.TVLoader : TVLoader : 1.1.1
+[Debug  :ainavt.lc.lethalconfig] rr.Flashlight : Flashlight : 1.5.0
+[Debug  :ainavt.lc.lethalconfig] rr.Walkie : WalkieUse : 1.5.0
+[Debug  :ainavt.lc.lethalconfig] taffyko.BetterSprayPaint : BetterSprayPaint : 2.0.4
+[Debug  :ainavt.lc.lethalconfig] twig.latecompany : Late Company : 1.0.16
+[Debug  :ainavt.lc.lethalconfig] verity.TooManySuits : Too Many Suits : 1.1.0
+[Debug  :ainavt.lc.lethalconfig] viviko.ItemClippingFix : ItemClippingFix : 1.1.4
+[Debug  :ainavt.lc.lethalconfig] Zaggy1024.PathfindingLagFix : PathfindingLagFix : 1.2.1
+[Info   :ainavt.lc.lethalconfig] Generated 41 mod entries.
+[Info   :ainavt.lc.lethalconfig] Generated 426 configs, of which 414 were missing and registered.
+[Debug  :IntroTweaks] Aligned menu buttons.
+[Debug  :IntroTweaks] Removed credits button.
+[Debug  :IntroTweaks] MoreCompany found. Edits have been made to its UI elements.
+[Warning: Unity Log] MaximizedWindow is not currently supported on Windows, setting to FullsceenWindow instead
+[Info   :LethalExpansion(core)] Unloading scene: MainMenu
+[Info   :Custom Boombox Music] Preparing to load AudioClips...
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01 Hills of Radiant Winds (Another Edit Version).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01. Kainé (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01. Snow in Summer (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01_Trailer1.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02 Approval desire.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02 Kaine (Another Edit Version).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02. Analogous Memories (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02. Hills of Radiant Winds (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02_Trailer2.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03 INTERNET OVERDOSE feat. KOTOKO.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03 Song of the Ancients (Another Edit Version).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03. Kainé (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03. The Wretched Automatons (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03_OpTheme1.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\04 Angel fall down.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\04. Gods Bound by Rules (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\04. Grandma (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\04_OpTheme2.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\05 天使の輪の上で.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\05. Deep Crimson Foe (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\05. Song of the Ancients (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\05_Neutral1.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\06 Angel boring.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\06. City of Commerce (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\06. Emil (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\06_Neutral2.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\07 天使でも喜んじゃいます.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\07. Fleeting Words (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\07. Hills of Radiant Winds (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\07_Neutral3.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\08 天使だって緊張する.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\08. Song of the Ancients (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\08. Temple of Drifting Sands (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\08_Neutral4.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\09 Angel yamu.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\09. Fleeting Words (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\09. Shadowlord (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\09_Emergency1.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\10 INTERNET ANGEL.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\10. Analogous Memories (Another Edit Version).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\10. Ashes of Dreams (Weiss Edition Arrangement).wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\10_Emergency2.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\11 駄天.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\11_Emergency3.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\12 天使だから病みます.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\12_Story1.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\13 天使は感動する.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\13_Story2.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\14 Ascension of angel.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\14_Story3.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\15 ニセモノの幸せだけど.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\15_Story4.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\16 やっぱり天使なんていなかったね.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\16_Story5.wav!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\17 Do you love me _.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\18 INTERNET OVERDOSE (8bit).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\19 Angel rests.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\20 Angel emotion.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\21 Angel flight.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\22 Angel computer.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\23 INTERNET OVERDOSE (inst).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\A Bird Story (Piano).ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\A Bird Story [Title Theme] - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\a Thunder chase - pre-tempest (part A only).ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\aa heavy rain walk.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Angvik_犭句,AI初音未来 - サカサカバンバンバスピスピス.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Another Stroll (Short) - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Another Stroll - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Anya by the Stars - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Baby Don''t Hurt Me (Slowed + Reverb) - Uday Biswas.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\bef fall music.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Bestest Detectives in the World - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Beta-Blockers - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Between a Squirrel and a Tree - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Born a Stranger - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Bright and Early - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ending - (For River) To the Moon - piano - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Everything's Alright (Music Box) - Laura Shigihara (arranged by kan).ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Everything's Alright (Reprise) - Laura Shigihara, Kan Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Floating By - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Fly Project - Toca Toca.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\From the Balcony - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Having Lived - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Hide and Seek - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Home - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\I Got Smoke-丁真珍珠.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Kairas,lorche,Spyzah - Chipi Chipi Chapa Chapa.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Katy Perry _ Snoop Dogg - California Gurls.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Kenny G - Going home.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Laments of a Stranger - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\last balcony pt 1 (refined).ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Light as a Feather - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\LOSER - 米津玄師.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Moongazer - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Moonwisher - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\My Home - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Once Upon a Memory (piano) - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Once Upon a Memory - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Paper Plane (BGSless) - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Paper Plane - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Raggedy Sax - Kan (Parody Arrangement).ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Reinbert de Leeuw - 3 Gymnopédies_ No.1.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ringtone [Eva Rosalene] -The_Mirror_Lied.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ringtone [Eva Rosalene] -To_the_Moon.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ringtone [Neil Watts] To_Realize (Quintessence - The Blighted Venom).ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\see you again (牧童版).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\somebody that I used to know(GALAXY).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Spiral of Secrets - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Take Me Anywhere - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Teddy - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Tempest - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\The Rain Song (Pt A) - Kan (Reives) Gao [no sil].ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\The Rain Song (Pt A) - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\The Rain Song (Pt B) - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ticking Away (prelude) - 2023VALORANT全球冠军赛主题曲前奏.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\To The Moon (For River) - Piano Version - KanRG.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\To The Moon (For River) - Recording Version - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\To the Moon (Title Theme) - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Tobu - Higher.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Today - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Tomorrow - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Uncharted Realms - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Unwelcome School(银行不妙曲).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Uru - フリージア.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Village People - Ymca.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\World's Smallest Ferris Wheel - Kan R. Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Yesterday - Kan (Reives) Gao.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\YOASOBI - 群青~1.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Z_Warning Loop 2.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Z_Warning Loop 3.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Z_Warning Loop.ogg!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\《城市化の小曲》Sat Tee Touy (Look At The Owl) Or (Yea Hua Dam).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\《躲闪摇の小曲》Forget (Slowed Down) - Storm Lake.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\ばかみたい [Taxi Driver Edition] - 黒田崇矢.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\宮本浩次 (みやもと ひろじ) - 冬の花_hires.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\春日影(MyGO!!!!! ver.) - MyGO!!!!!.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\爷们儿要战斗(周政 remix).mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\蔡琴 - 渡口.mp3!
+[Info   :Custom Boombox Music] Loading C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\黄勇 _ 任书怀 - 你看到的我 (DJ版).mp3!
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedLevels:
+1. 41 Experimentation (Vanilla)
+2. 220 Assurance (Vanilla)
+3. 56 Vow (Vanilla)
+4. 71 Gordion (Vanilla)
+5. 61 March (Vanilla)
+6. 20 Adamance (Vanilla)
+7. 85 Rend (Vanilla)
+8. 7 Dine (Vanilla)
+9. 21 Offense (Vanilla)
+10. 8 Titan (Vanilla)
+11. 68 Artifice (Vanilla)
+12. 44 Liquidation (Vanilla)
+13. 5 Embrion (Vanilla)
+14. Black Mesa (Custom)
+
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
+1. Facility (Level1Flow) (Vanilla)
+2. Haunted Mansion (Level2Flow) (Vanilla)
+3. Facility (Level1FlowExtraLarge) (Vanilla)
+4. Facility (Level1Flow3Exits) (Vanilla)
+5. Black Mesa (Black Mesa) (Custom)
+
+[Debug  :MaxWasUnavailable.LethalModDataLib] Loading data from file LCSaveFile1.moddata with key LethalLevelLoader.LLLSaveFile.parityStepsTaken...
+[Debug  :MaxWasUnavailable.LethalModDataLib] Loading data from file LCSaveFile1.moddata with key LethalLevelLoader.LLLSaveFile.itemSaveData...
+[Debug  :MaxWasUnavailable.LethalModDataLib] Loading data from file LCSaveFile1.moddata with key LethalLevelLoader.LLLSaveFile.CurrentLevelName...
+[Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: CompanyBuildingLevel, Current Vanilla Save Is: LCSaveFile1
+[Info   :LethalLevelLoader] LethalLevelLoader Has Finished Initializing.
+[Info   :LethalExpansion(core)] Added scrap 'mathbooks'
+[Info   :LethalExpansion(core)] Added scrap 'Hatsune Miku figurine'
+[Info   :LethalExpansion(core)] Finished adding moons and scrap
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   : LethalLib] Adding 0 unlockables to unlockables list
+[Info   : LethalLib] Adding 0 items to terminal
+[Info   :LethalExpansion(core)] Loading scene 'SampleSceneRelay'
+[Info   : Unity Log] Can't add component 'CanvasRenderer' to jetpackMeter because such a component is already added to the game object!
+[Info   : Unity Log] Can't add component 'CanvasRenderer' to jetpackMeterFrame because such a component is already added to the game object!
+[Info   : Unity Log] Can't add component 'CanvasRenderer' to jetpackMeterWarning because such a component is already added to the game object!
+[Info   :MoreCompany] ResizePlayerCache: 16
+[Info   :MoreCompany] Resizing player cache from 4 to 16 with difference of 12
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncVRState to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SignEmoteText to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   :RuntimeNetcodeRPCValidator] Successfully added SyncAnimatorToOthers to PlayerControllerB via Awake. Triggered by plugin BetterEmotes
+[Info   : LethalLib] Found 24 prefabs to fix
+[Info   :ObjectVolumeController-1.1.0] ShipSpeaker volume: 0.58
+[Info   :LethalLevelLoader] Loading Previously Saved SelectableLevel: 71 Gordion
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 71 Gordion
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Target).
+[Info   :LethalPosters] Patching Start in StartOfRound
+[Info   :LethalPosters] Patching the textures
+[Info   :LethalPosters] Patching Posters (Instance) with C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Cedsi-MikuPostersAndPaintings\LethalPosters\posters\3-remade.png
+[Info   :LethalPosters] Patching TipsPoster (Instance) with C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Cedsi-MikuPostersAndPaintings\LethalPosters\tips\7.png
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (1)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (3)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (2)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player
+[Debug  :LethalExpansion(core)] Hotfix: Removing duplicated routes
+[Debug  :LethalExpansion(core)] 7route duplicated route removed.
+[Debug  :LethalExpansion(core)] Hotfix: 1 duplicated route(s) removed
+[Info   :LethalExpansion(core)] Terminal reset.
+[Info   :LethalExpansion(core)] Finished updating terminal
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into quick menu...
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_Start() Function To Prevent Conflicts
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (4)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (5)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (6)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (7)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (8)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (9)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (10)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (11)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (12)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (13)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (14)
+[Info   :ReservedItemSlotCore-2.0.32] Initializing ReservedPlayerData for player: Player (15)
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: flashlight
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: spray_paint
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: utility
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: walkie_talkie
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: weapons
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: ammo
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+CorporateRestructure.Component.CreditMonitor.UpdateMonitor () (at <145f04274b9a4d6b9e59d1553ca40844>:IL_0000)
+CorporateRestructure.Patch.MonitorPatch.OnPlayerConenct () (at <145f04274b9a4d6b9e59d1553ca40844>:IL_0000)
+(wrapper dynamic-method) GameNetcodeStuff.PlayerControllerB.DMD<GameNetcodeStuff.PlayerControllerB::ConnectClientToPlayerObject>(GameNetcodeStuff.PlayerControllerB)
+(wrapper dynamic-method) GameNetcodeStuff.PlayerControllerB.DMD<GameNetcodeStuff.PlayerControllerB::Update>(GameNetcodeStuff.PlayerControllerB)
+
+[Warning: Unity Log] MaximizedWindow is not currently supported on Windows, setting to FullsceenWindow instead
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01 Hills of Radiant Winds (Another Edit Version).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01. Kainé (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01. Snow in Summer (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\01_Trailer1.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02 Approval desire.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02 Kaine (Another Edit Version).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02. Analogous Memories (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02. Hills of Radiant Winds (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\02_Trailer2.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03 INTERNET OVERDOSE feat. KOTOKO.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03 Song of the Ancients (Another Edit Version).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03. Kainé (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03. The Wretched Automatons (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\03_OpTheme1.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\04 Angel fall down.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\04. Gods Bound by Rules (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\04. Grandma (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\04_OpTheme2.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\05 天使の輪の上で.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\05. Deep Crimson Foe (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\05. Song of the Ancients (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\05_Neutral1.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\06 Angel boring.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\06. City of Commerce (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\06. Emil (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\06_Neutral2.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\07 天使でも喜んじゃいます.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\07. Fleeting Words (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\07. Hills of Radiant Winds (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\07_Neutral3.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\08 天使だって緊張する.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\08. Song of the Ancients (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\08. Temple of Drifting Sands (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\08_Neutral4.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\09 Angel yamu.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\09. Fleeting Words (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\09. Shadowlord (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\09_Emergency1.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\10 INTERNET ANGEL.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\10. Analogous Memories (Another Edit Version).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\10. Ashes of Dreams (Weiss Edition Arrangement).wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\10_Emergency2.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\11 駄天.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\11_Emergency3.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\12 天使だから病みます.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\12_Story1.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\13 天使は感動する.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\13_Story2.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\14 Ascension of angel.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\14_Story3.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\15 ニセモノの幸せだけど.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\15_Story4.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\16 やっぱり天使なんていなかったね.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\16_Story5.wav
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\17 Do you love me _.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\18 INTERNET OVERDOSE (8bit).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\19 Angel rests.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\20 Angel emotion.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\21 Angel flight.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\22 Angel computer.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\23 INTERNET OVERDOSE (inst).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\A Bird Story (Piano).ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\A Bird Story [Title Theme] - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\a Thunder chase - pre-tempest (part A only).ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\aa heavy rain walk.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Angvik_犭句,AI初音未来 - サカサカバンバンバスピスピス.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Another Stroll (Short) - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Another Stroll - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Anya by the Stars - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Baby Don''t Hurt Me (Slowed + Reverb) - Uday Biswas.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\bef fall music.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Bestest Detectives in the World - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Beta-Blockers - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Between a Squirrel and a Tree - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Born a Stranger - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Bright and Early - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ending - (For River) To the Moon - piano - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Everything's Alright (Music Box) - Laura Shigihara (arranged by kan).ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Everything's Alright (Reprise) - Laura Shigihara, Kan Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Floating By - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Fly Project - Toca Toca.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\From the Balcony - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Having Lived - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Hide and Seek - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Home - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\I Got Smoke-丁真珍珠.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Kairas,lorche,Spyzah - Chipi Chipi Chapa Chapa.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Katy Perry _ Snoop Dogg - California Gurls.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Kenny G - Going home.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Laments of a Stranger - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\last balcony pt 1 (refined).ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Light as a Feather - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\LOSER - 米津玄師.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Moongazer - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Moonwisher - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\My Home - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Once Upon a Memory (piano) - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Once Upon a Memory - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Paper Plane (BGSless) - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Paper Plane - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Raggedy Sax - Kan (Parody Arrangement).ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Reinbert de Leeuw - 3 Gymnopédies_ No.1.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ringtone [Eva Rosalene] -The_Mirror_Lied.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ringtone [Eva Rosalene] -To_the_Moon.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ringtone [Neil Watts] To_Realize (Quintessence - The Blighted Venom).ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\see you again (牧童版).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\somebody that I used to know(GALAXY).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Spiral of Secrets - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Take Me Anywhere - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Teddy - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Tempest - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\The Rain Song (Pt A) - Kan (Reives) Gao [no sil].ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\The Rain Song (Pt A) - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\The Rain Song (Pt B) - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Ticking Away (prelude) - 2023VALORANT全球冠军赛主题曲前奏.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\To The Moon (For River) - Piano Version - KanRG.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\To The Moon (For River) - Recording Version - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\To the Moon (Title Theme) - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Tobu - Higher.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Today - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Tomorrow - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Uncharted Realms - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Unwelcome School(银行不妙曲).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Uru - フリージア.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Village People - Ymca.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\World's Smallest Ferris Wheel - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Yesterday - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\YOASOBI - 群青~1.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Z_Warning Loop 2.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Z_Warning Loop 3.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\Z_Warning Loop.ogg
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\《城市化の小曲》Sat Tee Touy (Look At The Owl) Or (Yea Hua Dam).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\《躲闪摇の小曲》Forget (Slowed Down) - Storm Lake.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\ばかみたい [Taxi Driver Edition] - 黒田崇矢.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\宮本浩次 (みやもと ひろじ) - 冬の花_hires.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\春日影(MyGO!!!!! ver.) - MyGO!!!!!.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\爷们儿要战斗(周政 remix).mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\蔡琴 - 渡口.mp3
+[Info   :Custom Boombox Music] Loaded C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music\黄勇 _ 任书怀 - 你看到的我 (DJ版).mp3
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: flashlight
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: spray_paint
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: utility
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: walkie_talkie
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: weapons
+[Info   :ReservedItemSlotCore-2.0.32] Unlocking reserved item slot: ammo
+[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+[Info   :LethalExpansion(core)] Game started.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   :LethalExpansion(core)] Loading scene 'CompanyBuilding'
+[Info   :LethalExpansion(core)] Disabled TerrainFixer
+[Info   :TouchScreen]  > Setup actions
+[Info   :LethalPosters] Patching GenerateNewLevelClientRpc in RoundManager
+[Info   :LethalPosters] Patching the textures
+[Info   :LethalPosters] Patching Posters (Instance) with C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Cedsi-MikuPostersAndPaintings\LethalPosters\posters\2-remade.png
+[Info   :LethalPosters] Patching TipsPoster (Instance) with C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Cedsi-MikuPostersAndPaintings\LethalPosters\tips\4.png
+[Info   :LethalPosters] Patching GenerateNewLevelClientRpc in RoundManager
+[Info   :LethalPosters] Patching the textures
+[Info   :LethalPosters] Patching Posters (Instance) with C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Cedsi-MikuPostersAndPaintings\LethalPosters\posters\2-remade.png
+[Info   :LethalPosters] Patching TipsPoster (Instance) with C:\Users\qigao\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Cedsi-MikuPostersAndPaintings\LethalPosters\tips\4.png
+[Info   :BoomboxSyncFix] Round has loaded for all -- forcing everyone to reinitialize musicRandomizer.
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+LethalLevelLoader.Patches.RoundManagerFinishGeneratingNewLevelClientRpc_Prefix () (at ./General/Patches.cs:660)
+(wrapper dynamic-method) RoundManager.DMD<RoundManager::FinishGeneratingNewLevelClientRpc>(RoundManager)
+RoundManager.__rpc_handler_2729232387 (Unity.Netcode.NetworkBehaviour target, Unity.Netcode.FastBufferReader reader, Unity.Netcode.__RpcParams rpcParams) (at <0b5b829887344817a21214132ea92eef>:IL_002E)
+Unity.Netcode.RpcMessageHelpers.Handle (Unity.Netcode.NetworkContext& context, Unity.Netcode.RpcMetadata& metadata, Unity.Netcode.FastBufferReader& payload, Unity.Netcode.__RpcParams& rpcParams) (at <895801699cfc4b4ab52267f31e2a4998>:IL_004E)
+Rethrow as Exception: Unhandled RPC exception!
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.RpcMessageHelpers:Handle(NetworkContext&, RpcMetadata&, FastBufferReader&, __RpcParams&)
+Unity.Netcode.ClientRpcMessage:Handle(NetworkContext&)
+Unity.Netcode.NetworkBehaviour:__endSendClientRpc(FastBufferWriter&, UInt32, ClientRpcParams, RpcDelivery)
+RoundManager:DMD<RoundManager::FinishGeneratingNewLevelClientRpc>(RoundManager)
+<LoadNewLevelWait>d__125:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[Info   :BoomboxSyncFix] Round has loaded for all -- forcing everyone to reinitialize musicRandomizer.
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+LethalLevelLoader.Patches.RoundManagerFinishGeneratingNewLevelClientRpc_Prefix () (at ./General/Patches.cs:660)
+(wrapper dynamic-method) RoundManager.DMD<RoundManager::FinishGeneratingNewLevelClientRpc>(RoundManager)
+RoundManager+<LoadNewLevelWait>d__125.MoveNext () (at <0b5b829887344817a21214132ea92eef>:IL_0342)
+UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) (at <e27997765c1848b09d8073e5d642717a>:IL_0026)
+
+[Info   :Custom Boombox Music] Applying clips!
+[Info   :Custom Boombox Music] Total Clip Count: 139
+[Info   :ObjectVolumeController-1.1.0] Boombox volume: 0.754
+[Info   :BoomboxSyncFix] Musicrandomizer variable has been synced with seed: 17667208
+[Info   :Custom Boombox Music] Playing 18 INTERNET OVERDOSE (8bit).mp3
+[Info   :Custom Boombox Music] Playing Ending - (For River) To the Moon - piano - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Playing 爷们儿要战斗(周政 remix).mp3
+[Info   :Custom Boombox Music] Playing 07. Fleeting Words (Another Edit Version).wav
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.1 to 0.2
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.2 to 0.3
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.3 to 0.4
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.4 to 0.5
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.5 to 0.6
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.6 to 0.7
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.7 to 0.8000001
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.8000001 to 0.9000001
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 0.9000001 to 1
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1 to 1.1
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.1 to 1.2
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.2 to 1.3
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.3 to 1.4
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.4 to 1.5
+[Info   :Custom Boombox Music] Playing LOSER - 米津玄師.mp3
+[Info   :Custom Boombox Music] Playing Tomorrow - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Playing somebody that I used to know(GALAXY).mp3
+[Info   :Custom Boombox Music] Playing 04_OpTheme2.wav
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.5 to 1.4
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.4 to 1.3
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.3 to 1.2
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.2 to 1.1
+[Info   :ObjectVolumeController-1.1.0] [boombox] Updating volume from 1.1 to 0.9999999
+[Info   :Custom Boombox Music] Playing Laments of a Stranger - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Playing Hide and Seek - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Playing Ringtone [Neil Watts] To_Realize (Quintessence - The Blighted Venom).ogg
+[Info   :Custom Boombox Music] Playing ばかみたい [Taxi Driver Edition] - 黒田崇矢.mp3
+[Info   :Custom Boombox Music] Playing aa heavy rain walk.ogg
+[Info   :Custom Boombox Music] Playing bef fall music.ogg
+[Info   :Custom Boombox Music] Playing Bestest Detectives in the World - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Playing Having Lived - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Playing 蔡琴 - 渡口.mp3
+[Info   :Custom Boombox Music] Playing 02. Hills of Radiant Winds (Another Edit Version).wav
+[Info   :Custom Boombox Music] Playing The Rain Song (Pt A) - Kan (Reives) Gao.ogg
+[Info   :Custom Boombox Music] Playing Anya by the Stars - Kan R. Gao.ogg
+[Info   :Custom Boombox Music] Playing 08_Neutral4.wav
+[Info   :Custom Boombox Music] Playing 10_Emergency2.wav
+[Info   :Custom Boombox Music] Playing last balcony pt 1 (refined).ogg
+[Info   :Custom Boombox Music] Playing 13 天使は感動する.mp3
+[Info   :Custom Boombox Music] Playing 01. Kainé (Weiss Edition Arrangement).wav
+[Info   :TouchScreen]  > Clear actions
+[Info   :LethalExpansion(core)] Unloading scene: SampleSceneRelay
+[Info   :LethalExpansion(core)] Unloading scene: CompanyBuilding
+[Info   :MoreCompany] LANMenu startLAN Patched
+[Info   :LethalExpansion(core)] Loading scene 'MainMenu'
+[Warning: Unity Log] MaximizedWindow is not currently supported on Windows, setting to FullsceenWindow instead
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Debug  :IntroTweaks] Aligned menu buttons.
+[Debug  :IntroTweaks] Removed credits button.
+[Debug  :IntroTweaks] MoreCompany found. Edits have been made to its UI elements.
+[Info   :DoorBreach] Nyxchrono-DoorBreach v1.1.0 was unloaded!
+[Info   :FixPluginTypesSerialization] Restored original AssemblyNames list
